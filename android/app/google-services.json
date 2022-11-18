@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203338338156",
+    "project_id": "stockmarket-c0a58",
+    "storage_bucket": "stockmarket-c0a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203338338156:android:ea4f77e085a15cc9d0ad49",
+        "android_client_info": {
+          "package_name": "com.penta.stocknews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203338338156-gp8aeqpdct9alqai60sdvg87hsl226a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvn5pAgJ9PPAtBA8rfa7JxbJJspFqd-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203338338156-gp8aeqpdct9alqai60sdvg87hsl226a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
